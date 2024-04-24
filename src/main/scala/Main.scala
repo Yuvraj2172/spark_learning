@@ -9,5 +9,6 @@ object Main {
     logger.info("Program Started")
     println(spark)
     logger.info("Program Finished")
+
   }
 }
